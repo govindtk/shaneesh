@@ -385,7 +385,7 @@
 		position: absolute;
 		right: 15px;
 		color:#fff;
-		z-index:999999;
+		z-index:10;
 	}
 
 	.brand-content {
